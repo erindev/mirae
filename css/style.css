@@ -1,0 +1,3 @@
+@charset "utf-8";
+@import url("./default.css"); /* reset, base, layout */
+@import url("./main.css"); /* index + response */
